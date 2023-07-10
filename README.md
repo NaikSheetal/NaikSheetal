@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NaikSheetal
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning Web Development using Python
+- 🌱 I’m currently working on Full Stack Web Development
 - 💞️ I’m looking to collaborate on good company
 - 📫  E-mail:- sheetalnaik53585@gmail.com 
 
